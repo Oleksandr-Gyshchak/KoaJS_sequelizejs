@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "xaqybaay",
+    "password": "u7kY_CQ0Zrwoqr-muZIeOyGc8o90Agag",
+    "database": "xaqybaay",
+    "host": "dumbo.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "xaqybaay",
+    "password": "u7kY_CQ0Zrwoqr-muZIeOyGc8o90Agag",
+    "database": "xaqybaay",
+    "host": "dumbo.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "xaqybaay",
+    "password": "u7kY_CQ0Zrwoqr-muZIeOyGc8o90Agag",
+    "database": "xaqybaay",
+    "host": "dumbo.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
